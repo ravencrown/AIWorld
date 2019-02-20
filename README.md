@@ -1,4 +1,4 @@
-## 初始
+## 初识
 
 - [人工智能入门文章以及如何自学](https://github.com/ravencrown/AIWorld/issues/1)
 - [个人自学人工智能计划](https://github.com/ravencrown/AIWorld/issues/2)
