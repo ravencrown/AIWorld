@@ -10,4 +10,4 @@
 
 ## 吴恩达 CS229 [斯坦福大学公开课 ：机器学习](http://open.163.com/special/opencourse/machinelearning.html)
  
-- 【第1讲】 [机器学习的动机与应用](https://github.com/ravencrown/AIWorld/issues/3)
+- [第一课：机器学习的动机与应用](https://github.com/ravencrown/AIWorld/issues/3)
